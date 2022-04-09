@@ -20,7 +20,7 @@ body {
   height: 100%;
   /* width:100%;
   max-width:340px; */
-  padding-top: 10px;
+
   max-width: 1190px;
   margin: 56px auto;
   /* max-width: 1190px;  */
@@ -145,7 +145,7 @@ body {
   min-width: 100%;
   padding: 0px;
 }
-@media screen and (max-width: 1100px) {
+@media screen and (max-width: 1200px) {
   div.right-wrapper {
     display: none;
   }
